@@ -1,1 +1,6 @@
-This is my first file for completing the task.
+这是我完成任务的第一个文件。
+我要开始说中文啦
+为什么呢
+因为写了英文也被翻译成中文
+还不如直接写中文好了
+你说呢
